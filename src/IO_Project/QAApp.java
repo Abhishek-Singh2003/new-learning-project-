@@ -9,7 +9,7 @@ public class QAApp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to Q&A System");
+        System.out.println("Welcome to Q&A System hello ");
         System.out.println("1. Teacher");
         System.out.println("2. Student");
         System.out.print("Choose your role: ");
